@@ -1,5 +1,5 @@
 '''
-Problem 2: CRISPR Cas9 PAM Validator
+Problem: CRISPR Cas9 PAM Validator
 
 For CRISPR Cas9 to successfully cut DNA, the 20-nucleotide guide RNA target sequence must be immediately followed by a PAM sequence, 
 which is typically "NGG" (meaning any nucleotide, followed by two Guanines).
