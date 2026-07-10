@@ -1,5 +1,5 @@
 ''' 
-Problem 1: The Primer Melting Temperature (T_m) Estimator
+Problem: The Primer Melting Temperature (T_m) Estimator
 
 A common rule of thumb for calculating the basic melting temperature of a short DNA primer is the Wallace Rule:
 T_m = 4 \times (G + C) + 2 \times (A + T)
