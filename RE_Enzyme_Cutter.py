@@ -1,5 +1,5 @@
 '''
-Problem 3: Restriction Enzyme Cutter
+Problem: Restriction Enzyme Cutter
 
 EcoRI is a restriction enzyme that cuts DNA specifically at the sequence "GAATTC".
 The Input: 
